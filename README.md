@@ -1,6 +1,7 @@
-## Hands-on Technical Skills
+## ⚙️ Hands-on Technical Skills
 
-<p align="left">
+<details>
+<summary>List of Hands-on Technical Skills (click to expand)</summary>
 
 ### 🔧 Languages, Frameworks & Libraries
 
@@ -68,6 +69,7 @@
 [![Grafana](https://img.shields.io/badge/Grafana-%23F05A22?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
+</details>
 </p>
 
 ## 🏆 Certifications
