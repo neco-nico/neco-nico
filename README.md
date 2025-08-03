@@ -1,6 +1,7 @@
-## Hands-on Technical Skills
+## ⚙️ Hands-on Technical Skills
 
-<p align="left">
+<details>
+<summary>List of Hands-on Technical Skills (click to expand)</summary>
 
 ### 🔧 Languages, Frameworks & Libraries
 
@@ -60,14 +61,15 @@
 
 ### 📚 Learning Plan
 
-[![Kibana](https://img.shields.io/badge/Kibana-%23007ACC?style=flat-square&logo=kibana&logoColor=white)](https://www.elastic.co/kibana)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![Kibana](https://img.shields.io/badge/Kibana-%23007ACC?style=flat-square&logo=kibana&logoColor=white)](https://www.elastic.co/kibana)
 [![Grafana](https://img.shields.io/badge/Grafana-%23F05A22?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com)
 [![k6](https://img.shields.io/badge/k6-%236F2DBD?style=flat-square&logo=k6&logoColor=white)](https://k6.io)
 [![JMeter](https://img.shields.io/badge/JMeter-%234E9A06?style=flat-square&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
+</details>
 </p>
 
 ## 🏆 Certifications
