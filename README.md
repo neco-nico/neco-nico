@@ -92,7 +92,10 @@
 
 </details>
 
-<h3>Open source projects</h3>
+## 🌍 Open source projects
+
+<details>
+<summary>List of Open source projects (click to expand)</summary>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -113,3 +116,4 @@
     </tr>
   </tbody>
 </table>
+<details>
