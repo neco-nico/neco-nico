@@ -44,3 +44,27 @@
 </p>  -->
 
 <!--  取り扱い説明書  https://zenn.dev/a_ichi1/articles/0411396e6b887d  -->
+
+
+## 🏆 Certifications
+
+<details>
+<summary>List of Certifications (click to expand)</summary>
+
+| Certification Name                                          | Date Obtained |
+| ----------------------------------------------------------- | ------------- |
+| AWS Certified Solutions Architect - Professional            | April 2025    |
+| AWS Certified Data Engineer – Associate                     | April 2025    |
+| TOEIC® Listening & Reading Test 915                         | March 2025    |
+| Oracle Certified Java Programmer, Silver SE 11 – JPN        | June 2024     |
+| AWS Certified DevOps Engineer – Professional                | March 2024    |
+| AWS Certified Developer – Associate                         | December 2023 |
+| AWS Certified SysOps Administrator – Associate              | December 2023 |
+| AWS Certified Solutions Architect – Associate               | December 2023 |
+| AWS Certified Cloud Practitioner                            | December 2023 |
+| LPIC-1                                                      | December 2023 |
+| Ruby Association Certified Ruby Programmer Gold Version 3   | May 2023      |
+| Ruby Association Certified Ruby Programmer Silver Version 2 | December 2021 |
+
+</details>
+
