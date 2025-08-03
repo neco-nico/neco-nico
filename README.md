@@ -91,4 +91,3 @@
 | Ruby Association Certified Ruby Programmer Silver Version 2 | December 2021 |
 
 </details>
-
